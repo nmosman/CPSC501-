@@ -12,4 +12,26 @@ public class Student {
 		
 	}
 	
+	
+	public float getTotalTuition()
+	{
+		return 0;
+		
+	}
+	
+	public void printCourses()
+	{
+		
+	}
+	
+	public void dropCourse()
+	{
+		
+		
+	}
+	
+	public void payForCourse()
+	{
+		
+	}
 }
