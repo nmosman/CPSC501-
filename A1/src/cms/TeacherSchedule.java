@@ -1,7 +1,8 @@
 package cms;
+import java.util.ArrayList;
 
 public class TeacherSchedule {
-	private ArrayList<CourseSession> courseList = new ArrayList<CourseSession>();
+	private ArrayList<Course> courseList = new ArrayList<Course>();
 	
 	
 }
